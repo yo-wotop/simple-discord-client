@@ -1,0 +1,14 @@
+{
+  "guilds": {
+    "sample_guild": {
+      "id": 1234567,
+      "channels": {
+        "sample_channel_1": 12345,
+        "sample_channel_2": 54321
+      }
+    }
+  },
+  "users": {
+    "sample_user": 98765
+  }
+}
